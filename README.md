@@ -7,6 +7,7 @@ Below are some bunch of activities I am and have been working on:
 **NabinGiri/NabinGiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 As Trueman says:
 > "In Case I Don't See Ya, Good Afternoon, Good Evening And Goodnight."
