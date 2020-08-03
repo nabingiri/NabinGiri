@@ -8,16 +8,16 @@ I am Nabin, a recent graduate from MS Computer Science with 4+ years of experien
 **NabinGiri/NabinGiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with finding jobs!! 
-- 💬 Ask me about  
-- 📫 How to reach me: @https://www.linkedin.com/in/nabin-giri/
-- 😄 Pronouns: 
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+- 👯 I’m looking to collaborate on machine learning, data science and software engineering projects
+- 🤔 I’m looking for help with finding jobs!! 
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/nabin-giri/)  [Portfolio](https://nabingiri.github.io/portfolio/)  [Gmail](mailto:nvngiri2@gmail.com)
+
 
 
 As Truman says:
