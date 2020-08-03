@@ -1,7 +1,7 @@
-### Hello there 👋
+### Hello 👋 and Namaste :pray:
 
-I am Nabin :bowtie:, a recent graduate from MS Computer Science with 4+ years of experience as software engineer and system engineer. I am mostly interested in building softwares, machine learning models and as my name implies, (Nabin = New) looking for new ideas/opportunities to use my skills of Python, R and C++.
-Below are some bunch of activities I am and have been working on:
+I am Nabin, a recent graduate from MS Computer Science with 4+ years of experience as software engineer and hardware system engineer. I am mostly interested in building systems, softwares, machine learning models and as my name implies, (Nabin = *New*) looking for new ideas/opportunities to use my skills of Python, R and C++.
+
 
 <!--
 **NabinGiri/NabinGiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
