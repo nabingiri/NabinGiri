@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Nabin, a recent graduate from MS Computer Science with 4+ years of experience as software engineer and system engineer. I am mostly interested in building systems, softwares, machine learning models and as my name implies, (Nabin = *New*) looking for new ideas/opportunities to use my skills.
+I am Nabin, a recent graduate from MS Computer Science with 4+ years of experience as software engineer and system engineer. I am mostly interested in building systems, softwares, machine learning models.
 
 
 
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👯 I’m looking to collaborate on machine learning, data science and software engineering projects
-- 🤔 I’m looking for help with finding jobs!! 
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/nabin-giri/)  [Portfolio](https://nabingiri.github.io/portfolio/)  [Gmail](mailto:nvngiri2@gmail.com)
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/nabin-giri/) [Gmail](mailto:nvngiri2@gmail.com)
 
 
 
