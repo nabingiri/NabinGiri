@@ -1,19 +1,18 @@
-### Hello 👋
+### Hi there! 👋
 
-I am Nabin, a recent graduate from MS Computer Science with 4+ years of experience as software engineer and system engineer. I am mostly interested in building systems, softwares, machine learning models.
-
+I am Nabin, a graduate student at the University of Missouri - Columbia.
 
 
 <!--
 **NabinGiri/NabinGiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on protein structure prediction using machine learning approach.
+- 🌱 I’m currently learning about proteins and neural networks
 - 👯 I’m looking to collaborate on machine learning, data science and software engineering projects
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/nabin-giri/) [Gmail](mailto:nvngiri2@gmail.com)
 
@@ -21,3 +20,5 @@ Here are some ideas to get you started:
 
 As Truman says:
 > "In Case I Don't See Ya, Good Afternoon, Good Evening And Goodnight."
+
+
