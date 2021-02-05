@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am Nabin, a graduate student at the University of Missouri - Columbia.
+I am Nabin, a graduate student at the University of Missouri - Columbia :man_student:.
 
 
 <!--
@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on protein structure prediction using machine learning approach.
-- 🌱 I’m currently learning about proteins and neural networks
+- 🔭 I’m currently working on protein structure prediction using machine learning approach
+- 🌱 I’m currently learning about proteins :dna: and neural networks
 - 👯 I’m looking to collaborate on machine learning, data science and software engineering projects
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/nabin-giri/) [Gmail](mailto:nvngiri2@gmail.com)
 
