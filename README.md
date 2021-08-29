@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am Nabin, a graduate student at the University of Missouri - Columbia :man_student:.
+I am Nabin, a graduate student at the University of Missouri, Columbia :man_student:.
 
 
 <!--
