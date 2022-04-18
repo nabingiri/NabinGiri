@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/nabin-giri/) [Gmail](mailto:nvngiri2@gmail.com)
 
 
-
 As Truman says:
 > "In Case I Don't See Ya, Good Afternoon, Good Evening And Good Night."
+
+For fun!
+> Here is a gif created using growing neural gas for Astronaut Eileen Collins who was the first woman to command a Space Shuttle mission.
+
+![](images/astro.gif)
 
 
