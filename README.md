@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 
 As Truman says:
-> "In Case I Don't See Ya, Good Afternoon, Good Evening And Goodnight."
+> "In Case I Don't See Ya, Good Afternoon, Good Evening And Good Night."
 
 
