@@ -26,6 +26,8 @@ As Truman says:
 
 
 
+| <a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabingiri&show_icons=true&theme=radical" alt="Eugene's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabingiri&layout=compact&hide_border=true&theme=radical" /></a> |
+| ------------- | ------------- |
 
 
 
